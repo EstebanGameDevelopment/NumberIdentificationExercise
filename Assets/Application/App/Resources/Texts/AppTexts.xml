@@ -1,0 +1,293 @@
+<texts>
+
+	<text id="text.back">
+		<en>Back</en>
+		<es>Atrás</es>
+	</text>
+
+	<text id="text.ok">
+		<en>Ok</en>
+		<es>Ok</es>
+	</text>
+
+	<text id="text.cancel">
+		<en>Cancel</en>
+		<es>Cancel</es>
+	</text>
+
+	<text id="text.loading">
+		<en>Loading</en>
+		<es>Loading</es>
+	</text>
+
+	<text id="screen.main.menu.title">
+		<en>Number Identification</en>
+		<es>Identificación Números</es>
+	</text>
+
+	<text id="screen.main.menu.play.game">
+		<en>Play</en>
+		<es>Jugar</es>
+	</text>
+
+	<text id="screen.main.menu.exit.game">
+		<en>Exit</en>
+		<es>Salir</es>
+	</text>
+
+	<text id="number.unit.1">
+		<en>One</en>
+		<es>Uno</es>
+	</text>
+
+	<text id="number.unit.1.a">
+		<en>One</en>
+		<es>Un</es>
+	</text>
+
+	<text id="number.unit.2">
+		<en>Two</en>
+		<es>Dos</es>
+	</text>
+
+	<text id="number.unit.3">
+		<en>Three</en>
+		<es>Tres</es>
+	</text>
+
+	<text id="number.unit.4">
+		<en>Four</en>
+		<es>Cuatro</es>
+	</text>
+
+	<text id="number.unit.5">
+		<en>Five</en>
+		<es>Cinco</es>
+	</text>
+
+	<text id="number.unit.6">
+		<en>Six</en>
+		<es>Seis</es>
+	</text>
+
+	<text id="number.unit.7">
+		<en>Seven</en>
+		<es>Siete</es>
+	</text>
+
+	<text id="number.unit.8">
+		<en>Eight</en>
+		<es>Ocho</es>
+	</text>
+
+	<text id="number.unit.9">
+		<en>Nine</en>
+		<es>Nueve</es>
+	</text>
+
+	<text id="number.unit.10">
+		<en>Ten</en>
+		<es>Diez</es>
+	</text>
+
+	<text id="number.unit.11">
+		<en>Eleven</en>
+		<es>Once</es>
+	</text>
+
+	<text id="number.unit.12">
+		<en>Twelve</en>
+		<es>Doce</es>
+	</text>
+
+	<text id="number.unit.13">
+		<en>Thirdteen</en>
+		<es>Trece</es>
+	</text>
+
+	<text id="number.unit.14">
+		<en>Fourteen</en>
+		<es>Catorce</es>
+	</text>
+
+	<text id="number.unit.15">
+		<en>Fifteen</en>
+		<es>Quince</es>
+	</text>
+
+	<text id="number.unit.16">
+		<en>Sixteen</en>
+		<es>Dieciseis</es>
+	</text>
+
+	<text id="number.unit.17">
+		<en>Seventeen</en>
+		<es>Diecisiete</es>
+	</text>
+
+	<text id="number.unit.18">
+		<en>Eighteen</en>
+		<es>Dieciocho</es>
+	</text>
+
+	<text id="number.unit.19">
+		<en>Nineteen</en>
+		<es>Diecinueve</es>
+	</text>
+
+	<text id="number.unit.20">
+		<en>Twenty</en>
+		<es>Veinte</es>
+	</text>
+
+	<text id="number.unit.21">
+		<en>Twenty-One</en>
+		<es>Ventiuno</es>
+	</text>
+
+	<text id="number.unit.22">
+		<en>Twenty-Two</en>
+		<es>Ventidos</es>
+	</text>
+
+	<text id="number.unit.23">
+		<en>Twenty-Three</en>
+		<es>Ventitres</es>
+	</text>
+
+	<text id="number.unit.24">
+		<en>Twenty-Four</en>
+		<es>Venticuatro</es>
+	</text>
+
+	<text id="number.unit.25">
+		<en>Twenty-Five</en>
+		<es>Venticinco</es>
+	</text>
+
+	<text id="number.unit.26">
+		<en>Twenty-Six</en>
+		<es>Ventiseis</es>
+	</text>
+
+	<text id="number.unit.27">
+		<en>Twenty-Seven</en>
+		<es>Ventisiete</es>
+	</text>
+
+	<text id="number.unit.28">
+		<en>Twenty-Eight</en>
+		<es>Ventiocho</es>
+	</text>
+
+	<text id="number.unit.29">
+		<en>Twenty-Nine</en>
+		<es>Ventinueve</es>
+	</text>
+
+	<text id="number.unit.30">
+		<en>Thirty</en>
+		<es>Treinta</es>
+	</text>
+
+	<text id="number.unit.40">
+		<en>Forty</en>
+		<es>Cuarenta</es>
+	</text>
+
+	<text id="number.unit.50">
+		<en>Fifty</en>
+		<es>Cincuenta</es>
+	</text>
+
+	<text id="number.unit.60">
+		<en>Sixty</en>
+		<es>Sesenta</es>
+	</text>
+
+	<text id="number.unit.70">
+		<en>Seventy</en>
+		<es>Setenta</es>
+	</text>
+
+	<text id="number.unit.80">
+		<en>Eighty</en>
+		<es>Ochenta</es>
+	</text>
+
+	<text id="number.unit.90">
+		<en>Ninety</en>
+		<es>Noventa</es>
+	</text>
+
+	<text id="number.unit.hundred">
+		<en>Hundred</en>
+		<es>Cien</es>
+	</text>
+
+	<text id="number.unit.hundred.a">
+		<en></en>
+		<es>Ciento</es>
+	</text>
+
+	<text id="number.unit.hundred.b">
+		<en></en>
+		<es>Cientos</es>
+	</text>
+
+	<text id="number.unit.500">
+		<en>Five-Hundred</en>
+		<es>Quinientos</es>
+	</text>
+
+	<text id="number.unit.700">
+		<en>Seven-Hundred</en>
+		<es>Setecientos</es>
+	</text>
+
+	<text id="number.unit.thousand">
+		<en>Thousand</en>
+		<es>Mil</es>
+	</text>
+
+	<text id="number.unit.million">
+		<en>Million</en>
+		<es>Millón</es>
+	</text>
+
+	<text id="number.unit.million.a">
+		<en></en>
+		<es>Millones</es>
+	</text>
+	
+	<text id="number.unit.separator">
+		<en>-</en>
+		<es> y </es>
+	</text>
+
+	<text id="game.hud.label.mistakes">
+		<en>Mistakes</en>
+		<es>Fallos</es>
+	</text>
+
+	<text id="game.hud.label.success">
+		<en>Success</en>
+		<es>Aciertos</es>
+	</text>				
+
+	<text id="screen.show.number.title">
+		<en>Read the number</en>
+		<es>Lee el número</es>
+	</text>				
+	
+	<text id="screen.answer.number.title.single">
+		<en>Choose the right number</en>
+		<es>Elige el número correcto</es>
+	</text>				
+
+	<text id="screen.answer.number.title.multiple">
+		<en>Choose the right numbers</en>
+		<es>Elige los números correctos</es>
+	</text>				
+
+</texts>
